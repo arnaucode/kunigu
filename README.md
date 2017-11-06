@@ -2,7 +2,7 @@
 
 Just need to write
 ```
-{{kunigu file.html}}
+{{kunigu @file.html}}
 ```
 inside the file, and run:
 ```

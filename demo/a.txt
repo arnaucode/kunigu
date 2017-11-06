@@ -3,10 +3,10 @@
 3
 4
 5
-{{kunigu demo/b.txt}}
+{{kunigu @demo/b.txt}}
 6
 7
 8
-{{kunigu demo/b.txt}}
+{{kunigu @demo/b.txt}}
 9
 10
